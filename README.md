@@ -1,6 +1,7 @@
 ### Lorenzo Ivan N. Bonifacio
-### Favorite Basketball Player: Dwayne Wade
+### Favorite Basketball Players: Dwayne Wade, Stephen Curry
 ### Favorite Artists: Twice, NewJeans, Red Velvet, BlackPink, BTS, Enhypen
+### Favorite Sports: Basketball, Volleyball
 
 
 <!--
